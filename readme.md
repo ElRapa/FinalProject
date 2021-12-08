@@ -39,7 +39,7 @@ https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
 |- get Overview of Image    |-Observing Data       |(Classic models and    |-Install Architecture |-setting up layers    |-adjusting parameter|
 |Recognition                |-Cleanng Data         |pretrained CNN)        |-Install Libraries    |-training model       |-adjusting layers|
 |- Model-Comparison         |                      |-find pretrained Model |                      |-checking output      |-train and apply|                
-|-get insight of Architectures|                     |                      |-train and apply Model |
+|-get insight of Architectures|                     |                      | |
 
 
 
