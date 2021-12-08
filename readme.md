@@ -36,10 +36,10 @@ https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
 |Research                   | Data Wrangling       |Build MVP              | Set-Up               | Apply Model          | Optimize Model/Workbook |
 |:-------------------------:|:--------------------:|:---------------------:|:--------------------:|:--------------------:|:---------------------:|
 |Thursday, 9th              | Friday, 10th         |Friday, 10th           |Friday, 10th          |Monday, 14th         |Monday, 14th             |
-|- get Overview of Image    |-Observing Data       |(Classic models and    |-Install Architecture |-setting up layers    |-adjusting parameter|
-|Recognition                |-Cleanng Data         |pretrained CNN)        |-Install Libraries    |-training model       |-adjusting layers|
-|- Model-Comparison         |                      |-find pretrained Model |                      |-checking output      |-train and apply|                
-|-get insight of Architectures|                     |                      | |
+|-get Overview of Image Recognition|-Observing Data|(Classic models and pretrained CNN)  |-Install Architecture |-setting up layers    |-adjusting parameter|
+|-Model-Comparison          |-Cleaning Data         |           |-Install Libraries    |-training model       |-adjusting layers|
+|-get insight of Architectures|       |                      |-find pretrained Model |                      |-checking output      |-train and apply|                
+|                     |                      | |
 
 
 
