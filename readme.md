@@ -34,8 +34,8 @@ https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
 ##### Project topics:
 
 |Research                   | Data Wrangling       |Build MVP              | Set-Up               | Apply Model          | Optimize Model/Workbook |
-|Thursday, 9th              | Friday, 10th         |Friday, 10th           |Friday, 10th          |Monday, 14th         |Monday, 14th             |
 |:-------------------------:|:--------------------:|:---------------------:|:--------------------:|:--------------------:|:---------------------:|
+|Thursday, 9th              | Friday, 10th         |Friday, 10th           |Friday, 10th          |Monday, 14th         |Monday, 14th             |
 |- get Overview of Image    |-Observing Data       |(Classic models and    |-Install Architecture |-setting up layers    |-adjusting parameter|
 |Recognition                |-Cleanng Data         |pretrained CNN)        |-Install Libraries    |-training model       |-adjusting layers|
 |- Model-Comparison         |                      |-find pretrained Model |                      |-checking output      |-train and apply|                
@@ -44,8 +44,8 @@ https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
 
 
 |Validate Model          | Adding Datasets          | Visualization/Prepare Presentation | Create App    |
-|Monday, 14th           |Tuesday, 15th (opt)        |Thursday, 16th                      |opt           |
 |:----------------------:|:------------------------:|:-----------------------------------:|:-------------:|
+|Monday, 14th           |Tuesday, 15th (opt)        |Thursday, 16th                      |opt           |
 |-test Model on new Data |-distracting Background   |-Write story                         |-Implement Camera|
 |-compare models         |-multiclass               |-Layout-Desing                       |-create automation|
 |                        |                          |-Prepare Presentation                |for classification|
