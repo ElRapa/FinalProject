@@ -1,50 +1,55 @@
-# Midterm Project
+# Final Project
 
 ## 1 Overview:
 
 #### 1.1 Team:
 - Emma (E)
-- Hong (H)
 - Raphael (R)
 
 #### 1.2 Topic:
-**Life Expectancy**
+**Garbage Image Classification**
 ##### 1.2.1 Objective:
-- Build model that will predict the life expectancy based on features provided in the dataset
-- Explore which factors are responsible for higher life expectancy
-- Give recommendations to improve life expectancy in specific countries
-###### Addressed Questions: 
-    - Do various predicting factors which have been chosen initially really affect the life expectancy? What are these factors?
-    - Should a country that has a lower life expectancy value(<65) increase its healthcare expenditure in order to improve its average lifespan?
-    - Does life expectancy have a relationship with drinking alcohol?
-    - What is the impact of immunization coverage on life expectancy?
-    - How is the bmi correlated to the life expectancy?
-    - What can be done to improve the health condition of the ten countries with the highest adult mortality rate?
+- Build model to classify different types of garbage (recycable, non-recycable) 
+    - MVP: linear classifier, SVM, DF or pretrained CNN
+    - next level: self trained CNN
+- Dive into CNN
+- optional: create APP
 
 ##### 1.2.2 Data:
-Collected by World Health Organization (WHO) and United Nations (UN).
-The final dataset consists of 22 columns (20 predicting variables) and 2938 row containing data collected from the year 2000-2015 of 193 countries.
-All predicting variables were divided into the following broad categories:
-- Immunization related factors
-- Mortality factors
-- Economical factors
-- Social factors
+Collected by Gary Thung and Mindy Yang.
+The Dataset contains images of six classes of garbage deployed on plain background:
+ - 501 glass
+ - 594 paper
+ - 403 cardboard
+ - 482 plastic
+ - 410 metal
+ - 137 trash
+
+
 ##### 1.2.3 Link to the Dataset:
-https://www.kaggle.com/kumarajarshi/life-expectancy-who
+https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
 
 
 ## 2 Timeline
 ##### Project topics:
 
-|Research                | Data Wrangling       |Build MVP              | Set-Up               | Apply Model          | Optimize Model/Workbook | 
-| -----------------------|:--------------------:|:---------------------:|:--------------------:|:--------------------:|:---------------------:|
-|- get Overview of Image |-Observing Data       |(Classic models and    |-Install Architecture |-setting up layers    |-adjusting parameter|
-|Recognition             |-Cleanng Data         |pretrained CNN)        |-Install Libraries    |-training model       |-adjusting layers|
-|- Model-Comparison      |                      |-find pretrained Model |                      |-checking output      |-train and apply|                
-|                        |                      |-train and apply Model |
+|Research                   | Data Wrangling       |Build MVP              | Set-Up               | Apply Model          | Optimize Model/Workbook |
+|Thursday, 9th              | Friday, 10th         |Friday, 10th           |Friday, 10th          |Monday, 14th         |Monday, 14th             |
+|:-------------------------:|:--------------------:|:---------------------:|:--------------------:|:--------------------:|:---------------------:|
+|- get Overview of Image    |-Observing Data       |(Classic models and    |-Install Architecture |-setting up layers    |-adjusting parameter|
+|Recognition                |-Cleanng Data         |pretrained CNN)        |-Install Libraries    |-training model       |-adjusting layers|
+|- Model-Comparison         |                      |-find pretrained Model |                      |-checking output      |-train and apply|                
+|-get insight of Architectures|                     |                      |-train and apply Model |
 
-|Validate Model          | Adding Datasets       | Using other Models | Visualization/Prepare Presentation | Create App    |
-| -----------------------|:---------------------:|:------------------:|:----------------------------------:|:-------------:|
+
+
+|Validate Model          | Adding Datasets          | Visualization/Prepare Presentation | Create App    |
+|Monday, 14th           |Tuesday, 15th (opt)        |Thursday, 16th                      |opt           |
+|:----------------------:|:------------------------:|:-----------------------------------:|:-------------:|
+|-test Model on new Data |-distracting Background   |-Write story                         |-Implement Camera|
+|-compare models         |-multiclass               |-Layout-Desing                       |-create automation|
+|                        |                          |-Prepare Presentation                |for classification|
+|                       |                           |-Rehearsal                             |                   |
 
 
 
