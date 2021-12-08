@@ -17,7 +17,7 @@
 
 ##### 1.2.2 Data:
 Collected by Gary Thung and Mindy Yang.
-The Dataset contains images of six classes of garbage deployed on plain background:
+The Dataset contains 2527 images of six classes of garbage deployed on plain background:
  - 501 glass
  - 594 paper
  - 403 cardboard
