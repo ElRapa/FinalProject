@@ -1,10 +1,9 @@
-# Final Project: trash sorting the right wAI
+# trash sorting the right wAI
+Final project for the Ironhack Data Analytics Bootcamp.
 
 ## 1 Overview:
 
-Since sustainability and the environment are areas of interest, we chose this as a base for our project, and to focus specifically on garbage disposal. Incorrect sorting of recycling is a major problem and people often don't know how to sort their recycling. We aimed to build a model that could be fed an image of trash and classify it correctly, giving the correct recycling bin as an output. The model works using resnet18 (pre-trained model) and pytorch.
-
-Final project for the Ironhack Data Analytics Bootcamp.
+Since sustainability and the environment are areas of interest, we chose this as a base for our project, and to focus specifically on garbage disposal. Incorrect sorting of recycling is a major problem and people often don't know how to sort their recycling. We aimed to build a model that could be fed an image of trash and classify it correctly, giving the correct recycling bin as an output. We use pytorch/resnet18 (pre-trained model).
 
 #### 1.1 Team:
 - [Emma Baker Reynolds](https://github.com/emma23579)
