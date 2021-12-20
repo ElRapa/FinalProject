@@ -1,5 +1,4 @@
-# Final Project
-"trash sorting the right wAI"
+# Final Project: trash sorting the right wAI
 
 ## 1 Overview:
 
