@@ -11,7 +11,7 @@ Final project for the Ironhack Data Analytics Bootcamp.
 - Raphael Weidemann
 
 #### 1.2 Topic:
-**Garbage Image Classification**
+**Garbage Classification** - Image Recognition with Convolutional Neural Networks
 ##### 1.2.1 Objective:
 - Train convolutional neural network to classify different types of garbage (recycable, non-recycable) 
 
