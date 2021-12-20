@@ -12,8 +12,10 @@ Final project for the Ironhack Data Analytics Bootcamp.
 
 #### 1.2 Topic:
 **Garbage Classification** - Image Recognition with Convolutional Neural Networks
+
 ##### 1.2.1 Objective:
-- Train convolutional neural network to classify different types of garbage (recycable, non-recycable) 
+- Learn about convolutional neural networks (CNN) and Pytorch.
+- Train CNN to classify different types of garbage (recycable, non-recycable).
 
 ##### 1.2.2 Data:
 Collected by [Gary Thung and Mindy Yang](https://github.com/garythung/trashnet/blob/master/data/dataset-resized.zip
